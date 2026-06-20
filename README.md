@@ -29,7 +29,9 @@ This project demonstrates how to integrate AI image generation models into a Pyt
 
   Project Structure
 
-FLUX-Vision/
+FLUX-Vision
+
+
 │
 ├── app.py              # Main Streamlit application
 ├── .env               # Environment variables (API token)

@@ -27,13 +27,4 @@ This project demonstrates how to integrate AI image generation models into a Pyt
 > python-dotenv
 
 
-  Project Structure
-
   
-FLUX-Vision
-    
-    
->app.py              # Main Streamlit application
->.env(API token)      # Environment variables
->requirements.txt   # Project dependencies
->README.md          # Project documentation
